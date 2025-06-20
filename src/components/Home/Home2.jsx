@@ -62,7 +62,7 @@ function Home2() {
 
               <li className="social-icons">
                 <a
-                  href="https://github.com/RaffyLeong"
+                  href="https://github.com/Brian7650"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -73,7 +73,7 @@ function Home2() {
               
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/ka-fong-leong-77a0a4245/"
+                  href="https://www.linkedin.com/in/brian-bartley-1bb4ab267/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -84,7 +84,7 @@ function Home2() {
               
               <li className="social-icons">
                 <a
-                  href="mailto:raffy36249@example.com"
+                  href="mailto:bbartley719@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
