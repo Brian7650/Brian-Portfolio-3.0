@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { SiPostman, SiVercel, SiRender } from "react-icons/si";
+import { SiPostman, SiVercel, SiRender, SiNetlify } from "react-icons/si";
 import { IoLogoWindows } from "react-icons/io";
 
 function Toolstack() {
@@ -16,7 +16,7 @@ function Toolstack() {
         <SiRender />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+        <SiNetlify />
       </Col>
     </Row>
   );

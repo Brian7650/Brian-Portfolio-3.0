@@ -9,16 +9,19 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             
-            Hi Everyone, I am <span className="purple">Brian Bartley (Raffy) </span>
+            Hi Everyone, I am <span className="purple">Brian Bartley </span>
             from <span className="purple"> Brampton, Canada.</span>
             <br />
             <br />
-            I’m a passionate developer with a keen interest in both front-end and back-end technologies. 
-            I love creating engaging user experiences and building seamless applications.
+            I'm a passionate developer with an interest in both front-end and back-end technologies. 
+            I love creating applications and engaging user experiences.
             <br />
             <br />
-            Throughout my learning journey, I’ve developed a social app, an e-commerce platform, and a simple chat application. 
-            These projects allowed me to explore various technologies and design principles, and I’m excited to bring my skills and enthusiasm to a dynamic team.
+           Throughout my journey, I've developed a wide range of applications, including e-commerce websites,
+            blogs, landing pages, and email campaigns. I also have hands-on experience building Shopify-based 
+            e-commerce stores, designing landing pages for email marketing, and crafting targeted email campaigns
+             to boost engagement and drive sales. I'm excited to bring this blend of technical expertise and 
+             creative energy to a dynamic, forward-thinking team.
             <br />
 
           </p>

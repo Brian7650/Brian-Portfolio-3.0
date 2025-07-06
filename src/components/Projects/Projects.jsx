@@ -19,37 +19,42 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+           
            {/* e-commerce */}
-          <Col md={4} className="project-card">
+          <Col md={5} className="project-card">
             <ProjectCard
               imgPath={work1}
               isBlog={false}
-              title="E-commerce Platform"
-              description="Developed a fully functional online shopping platform, providing users with a seamless and secure experience. The website features a user-friendly interface, easy navigation, and a robust checkout system, enabling customers to browse and purchase products efficiently. Key technologies used: React.js and Tailwind CSS."
-              ghLink="https://github.com/RaffyLeong/merm-ecommerce"
-              demoLink="https://merm-ecommerce.onrender.com"
+              title="E-commerce Application"
+              description="Created with Vite.js, React.js, Stripe, Firestore, SASS and Redux Saga. This is a fully functional e-commerce application. It includes
+                          features such as product listings, shopping cart functionality, and user authentication."
+              ghLink="https://github.com/Brian7650/jays-clothing"
+              demoLink="https://jaysclothing.netlify.app/"
             />
           </Col>
 
-           {/* social App */}
-          <Col md={4} className="project-card">
+           {/* social blog app */}
+          <Col md={5} className="project-card">
             <ProjectCard
               imgPath={work2}
               isBlog={false}
-              title="Social-media App"
-              description="Developed a social media application using Next.js and Tailwind CSS. The app allows users to create profiles, share posts, and interact with others in a user-friendly interface. Content is rendered from markdown files, supporting easy blog post creation and display. Features include dark mode for an improved viewing experience and seamless navigation."
+              title="Social-Blog App"
+              description="Put together a MERN stack application that allows users to create, read, update, and delete posts as an Administrator. 
+              Regular users can create their own account, read posts, and comment on them."
               ghLink="https://github.com/RaffyLeong/Social-app"
               demoLink="https://social-app-xs60.onrender.com"
             />
           </Col>
 
            {/* Chat App */}
-          <Col md={4} className="project-card">
+          <Col md={5} className="project-card">
             <ProjectCard
               imgPath={work3}
               isBlog={false}
               title="Chat Application: Chatify"
-              description="Created a real-time chat application using Python for the backend and JavaScript for the frontend. This app enables users to engage in private messaging with user authentication to ensure secure conversations. Leveraged WebSocket for instant message delivery and designed the interface to be responsive for a seamless experience across devices."
+              description="Created a real-time chat application using Python for the backend and JavaScript for the frontend. This app enables users 
+              to engage in private messaging with user authentication to ensure secure conversations. Leveraged WebSocket for instant message delivery 
+              and designed the interface to be responsive for a seamless experience across devices."
               ghLink="https://github.com/RaffyLeong/Python-Chat"
               demoLink="https://python-chat-1l7w.onrender.com"              
             />

@@ -15,10 +15,13 @@ function Home2() {
             </h1>
 
             <p className="home-about-body">
-              I am a programmer with a strong passion for coding and a
-              foundation in <b className="blue">JavaScript</b>. My journey into
-              the world of programming has been driven by curiosity and the
-              desire to create impactful web applications and solutions.
+
+              I’m a programmer with a strong passion for coding and a solid foundation
+               in <b className="blue">JavaScript</b>. I love bringing ideas to life through
+                code—it’s incredibly rewarding to see a project go from concept to reality. 
+                I work well both independently and in team settings, and I believe delivering 
+                excellent customer service should always be a top priority.
+
             </p>
 
             <div className="home-about-body">
@@ -29,18 +32,23 @@ function Home2() {
                   <b className="blue">JavaScript</b>
                 </li>
                 <li>
-                  Learning modern frameworks like{" "}
+                  Creating modern frameworks like{" "}
                   <b className="blue">React.js</b> and{" "}
                   <b className="blue">Vite.js</b>
+                </li>
+                <li>
+                  Crafting Software and Video Games with{" "}
+                  <b className="blue">Python</b> and{" "}
+                  <b className="blue">C#</b>
                 </li>
               </ul>
             </div>
 
             <p className="home-about-body">
-              Currently, I'm focusing on developing my skills by working on
-              personal projects and completing online courses. I'm excited to
-              connect with like-minded individuals and contribute to interesting
-              projects as I embark on this coding journey!
+              Currently, I'm focusing on freelancing by building e-commerce solutions using Shopify
+               or creating applications with React, Vite.js, Firestore, and Shopify. I'm also actively
+                developing my skills by working on various projects. I'm excited to connect with like-minded
+                individuals and contribute to interesting projects as I continue this coding journey!
             </p>
           </Col>
 

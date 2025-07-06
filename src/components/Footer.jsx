@@ -13,7 +13,7 @@ function Footer() {
           <h3>Designed and Developed by Brian Bartley</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Brian Bartley</h3>
+          <h3>Copyright © {year} BB</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
