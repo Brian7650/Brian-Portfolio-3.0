@@ -52,7 +52,7 @@ function ResumeNew() {
                 variant="primary"
                 href={pdf}
                 target="_blank"
-                style={{ maxWidth: "250px", marginBottom: "2rem" }}
+                style={{ maxWidth: "200px", marginBottom: "2rem" }}
               >
                 <PiDownloadSimpleThin />
                 Download CV

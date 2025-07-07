@@ -20,8 +20,8 @@ function ProjectCards(props) {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <BsGithub /> &nbsp;
-          {props.isBlog ? "Blog" : "GitHub"}
+          <BsGithub />
+          {props.isBlog ? "Blog" : " GitHub"}
         </Button>
         {!props.isBlog && props.demoLink && (
           <Button
@@ -31,7 +31,7 @@ function ProjectCards(props) {
             rel="noopener noreferrer"
             style={{ marginLeft: "10px" }}
           >
-            <CgWebsite /> &nbsp; Demo
+            <CgWebsite /> Demo
           </Button>
         )}
       </Card.Body>
