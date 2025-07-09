@@ -3,9 +3,9 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-import work1 from "../../Assets/Projects/work1.jpg";
-import work2 from "../../Assets/Projects/work2.jpg";
-import work3 from "../../Assets/Projects/work3.jpg";
+import work1 from "../../assets/Projects/work1.jpg";
+import work2 from "../../assets/Projects/work2.jpg";
+import work3 from "../../assets/Projects/work3.jpg";
 
 function Projects() {
   return (
