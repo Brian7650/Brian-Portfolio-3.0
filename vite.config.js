@@ -6,5 +6,5 @@ export default defineConfig({
   optimizeDeps: {
     include: ['react-pdf', 'pdfjs-dist'],
   },
-  assetsInclude: ['**/*.png', '**/*.jpg', '**/*.jpeg', '**/*.svg'],
+  assetsInclude: ['**/*.pdf', '**/*.png', '**/*.jpg', '**/*.jpeg', '**/*.svg'],
 });
