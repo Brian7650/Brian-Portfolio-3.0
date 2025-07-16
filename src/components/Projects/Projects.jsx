@@ -41,8 +41,8 @@ function Projects() {
               title="Social-Blog App"
               description="Put together a MERN stack application that allows users to create, read, update, and delete posts as an Administrator. 
               Regular users can create their own account, read posts, and comment on them."
-              ghLink="https://github.com/RaffyLeong/Social-app"
-              demoLink="https://social-app-xs60.onrender.com"
+              ghLink="https://github.com/Brian7650/zanoah-fullstack"
+              demoLink="https://zanoah-fullstack.onrender.com/"
             />
           </Col>
 
@@ -55,7 +55,7 @@ function Projects() {
               description="Created a real-time chat application using Python for the backend and JavaScript for the frontend. This app enables users 
               to engage in private messaging with user authentication to ensure secure conversations. Leveraged WebSocket for instant message delivery 
               and designed the interface to be responsive for a seamless experience across devices."
-              ghLink="https://github.com/RaffyLeong/Python-Chat"
+              ghLink="https://github.com/RaffyLeong/Python-Cha"
               demoLink="https://python-chat-1l7w.onrender.com"              
             />
           </Col>
