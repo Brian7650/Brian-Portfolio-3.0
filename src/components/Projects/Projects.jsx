@@ -5,7 +5,7 @@ import Particle from "../Particle";
 
 import work1 from "../../assets/Projects/work1.jpg";
 import work2 from "../../assets/Projects/work2.jpg";
-import work3 from "../../assets/Projects/work3.jpg";
+import work3 from "../../assets/Projects/work3.webp";
 
 function Projects() {
   return (
@@ -46,17 +46,17 @@ function Projects() {
             />
           </Col>
 
-           {/* Chat App */}
+           {/* Face Scan App */}
           <Col md={5} className="project-card">
             <ProjectCard
               imgPath={work3}
               isBlog={false}
-              title="Chat Application: Chatify"
+              title="Face Application"
               description="Created a real-time chat application using Python for the backend and JavaScript for the frontend. This app enables users 
               to engage in private messaging with user authentication to ensure secure conversations. Leveraged WebSocket for instant message delivery 
               and designed the interface to be responsive for a seamless experience across devices."
-              ghLink="https://github.com/RaffyLeong/Python-Cha"
-              demoLink="https://python-chat-1l7w.onrender.com"              
+              ghLink="https://github.com/Brian7650/Face-App-Project-Front"
+              demoLink="https://face-projectfront.onrender.com/"              
             />
           </Col>
 
