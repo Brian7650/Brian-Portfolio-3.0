@@ -52,15 +52,15 @@ function Projects() {
               imgPath={work3}
               isBlog={false}
               title="Face Application"
-              description="Created a real-time chat application using Python for the backend and JavaScript for the frontend. This app enables users 
-              to engage in private messaging with user authentication to ensure secure conversations. Leveraged WebSocket for instant message delivery 
-              and designed the interface to be responsive for a seamless experience across devices."
+              description="Created a website with React and Node.js for the front-end. Use PostgreSQL, Express.JS and Node.JS for the back-end MERN and PERN
+              Use PostgreSQL to create Username, an Email and hash passwords securely
+              Crafted a form with a sign in, register and logout navigator. Then used an email and password input to utilize the website"
               ghLink="https://github.com/Brian7650/Face-App-Project-Front"
               demoLink="https://face-projectfront.onrender.com/"              
             />
           </Col>
 
-         
+
 
           
         </Row>
